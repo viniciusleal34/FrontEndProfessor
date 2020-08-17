@@ -79,7 +79,7 @@ $ python app.py
 
 ## Licença
  
- -Fatec
+ - Fatec
 
 ## Agradecimentos
 

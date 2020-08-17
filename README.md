@@ -60,6 +60,10 @@ $ python app.py
 
 
 
+### Pontos a melhorar/recomendações
+
+- Otimização no algoritmo de reconhecimento
+- Adicionar funcionalidade após os usuários serem adicionados ao banco de dados, excluir as imagens salvas
 
 ## Autores
 

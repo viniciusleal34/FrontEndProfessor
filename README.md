@@ -56,14 +56,22 @@ $ python3 -m pip install -r requirements.txt
 $ python app.py
 ```
 
-### Sequência de projetos a serem seguidos
+### ATENÇÃO
 
+- Verificar se todas as configurações do banco de dados, foram adicionados corretamente
+- Verificar se os arquivos de treinamento, estão na pasta src/Descritor(indices.pickel, descritores.npy)
 
 
 ### Pontos a melhorar/recomendações
 
 - Otimização no algoritmo de reconhecimento
 - Adicionar funcionalidade após os usuários serem adicionados ao banco de dados, excluir as imagens salvas
+
+
+## Projetos relacionados
+- [Treinamento](https://github.com/viniciusleal34/Treinamento-Reconhecimento-Facial)
+- [Projeto mobile](https://github.com/viniciusleal34/front-end-aluno)
+- [API](https://github.com/viniciusleal34/api-flask)
 
 ## Autores
 

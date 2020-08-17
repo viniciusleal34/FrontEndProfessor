@@ -67,4 +67,5 @@ $ python app.py
 
 ## Agradecimentos
 
-* Piva
+* Dilermando Piva Jr
+* Fatec ITU

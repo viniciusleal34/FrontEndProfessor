@@ -56,6 +56,10 @@ $ python3 -m pip install -r requirements.txt
 $ python app.py
 ```
 
+### Sequência de projetos a serem seguidos
+
+
+
 
 ## Autores
 
